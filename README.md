@@ -1,10 +1,10 @@
-# 💼 Full Stack Development Internship Assessment – Team Task Manager
+#  Full Stack Development – Team Task Manager
 
 This repository contains my submission for the **Full Stack Development Internship Assessment**. The goal of this project was to build a **Team Task Manager** web application with full-stack functionality using **React, Node.js, Express, PostgreSQL**, and other modern technologies.
 
 ---
 
-## 📌 Features Implemented
+##  Features Implemented
 
 - ✅ Secure **User Authentication** (Login/Register) with sessions and HTTP-only cookies
 - ✅ **Team Management** – Create and manage teams
